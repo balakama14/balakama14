@@ -1,0 +1,91 @@
+#index_page{
+    background: url('../images/chaos_knight.jpg') no-repeat fixed;
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
+}
+
+#page_kontak{
+    background: url('../images/for_kontak.jpg') no-repeat fixed;
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
+}
+
+#page_profil{
+    background: url('../images/for_profil.png') no-repeat fixed;
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
+}
+
+#list_harga_page{
+    background: url('../images/for_list_harga.png') no-repeat fixed;
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
+}
+
+#page_ml{
+    background: url('../images/for_ml.jpg') no-repeat fixed;
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
+}
+
+
+#page_pubg{
+    background: url('../images/for_pubg.jpg') no-repeat fixed;
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
+}
+
+#page_prestasi{
+    background: url('../images/for_prestasi.png') no-repeat fixed;
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
+}
+
+@media (min-width: 768px) {
+    .content_profil{
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+
+    .content_contact{
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+
+    .img-profil{
+        border-radius: 50%;
+        height: 150px;
+        width: 20%;
+    }
+}
+
+#content_page{
+    color: white;
+    text-align: center;
+    margin-top: 2%;
+}
+
+#content_page h1{
+    font-size: 4em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    text-shadow: 3px 3px blue;
+}
+
+.page_penjualan h2{
+    font-size: 3.5em;
+}
